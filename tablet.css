@@ -1,0 +1,16 @@
+.main_grid_container{
+	display: flex;
+	width: 930px;
+	margin: 0 auto;
+}
+
+.main_product_detail, {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 auto;	
+}
+
+.plans__container--slider, .main_grid_container--slider{
+	justify-content: center;
+}
+
